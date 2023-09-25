@@ -3,5 +3,7 @@ public class Main {
 
         System.out.println("wassup okay");
         System.out.println("Ghost");
+        System.out.println("Guggugagag");
+        System.out.println("bob");
     }
 }
