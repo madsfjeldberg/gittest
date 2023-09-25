@@ -14,6 +14,7 @@ public class Main {
 
         System.out.println("pattesutter");
         System.out.println("\njeg er en programmeringsgud");
+        System.out.println("hej");
 
 
 
