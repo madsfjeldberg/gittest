@@ -9,6 +9,7 @@ public class Main {
             System.out.println("det er fedt at programmere :)");
         }
 
+        System.out.println("pattesutter");
         System.out.println("\njeg er en programmeringsgud");
 
 
