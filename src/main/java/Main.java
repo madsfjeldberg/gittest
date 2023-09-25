@@ -6,8 +6,12 @@ public class Main {
         System.out.println("jeg vil nu tælle til ti");
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
+            System.out.println("det er fedt at programmere :)");
         }
 
         System.out.println("\njeg er en programmeringsgud");
+
+
+
     }
 }
